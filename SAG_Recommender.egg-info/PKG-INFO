@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: SAG-Recommender
+Version: 0.9.5
+Summary: Working
+Home-page: https://github.com/zer0deck/SARS-Avatar
+Author: @zer0deck/Aleksey Grandilevskii
+Author-email: zer0deck@icloud.com
+License: GPLv3
+Platform: UNKNOWN
+Classifier: Development Status :: 0.9.5 - Ready to count test matrix
+Classifier: License :: OSI Approved :: Lesser General Public License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Machine Learning :: Graph Search
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+
+# SARS-Avatar
+
